@@ -17,5 +17,5 @@
 
 # Screenshots de la app: 
 
-<img width="333" alt="Captura de pantalla 2024-01-25 a la(s) 1 19 10 p m" src="https://github.com/Hector121110/FirstApp/assets/157746749/9498ae8a-b86a-49f8-b0b7-660f20444a53">
-<img width="333" alt="Captura de pantalla 2024-01-25 a la(s) 1 19 22 p m" src="https://github.com/Hector121110/FirstApp/assets/157746749/0afed536-ede6-4bbc-9d13-bba8b7066650">
+<img width="333" alt="Captura de pantalla 2024-01-25 a la(s) 1 42 20 p m" src="https://github.com/Hector121110/FirstApp/assets/157746749/7009ed82-be2b-484f-942f-8cfb366e33da">
+<img width="333" alt="Captura de pantalla 2024-01-25 a la(s) 1 42 06 p m" src="https://github.com/Hector121110/FirstApp/assets/157746749/21d3d1f6-2b11-462f-a656-450b8acffb4e">
